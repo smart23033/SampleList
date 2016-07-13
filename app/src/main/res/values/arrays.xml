@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>list data 0</item>
+        <item>list data 1</item>
+        <item>list data 2</item>
+        <item>list data 3</item>
+        <item>list data 4</item>
+        <item>list data 5</item>
+        <item>list data 6</item>
+        <item>list data 7</item>
+        <item>list data 8</item>
+        <item>list data 9</item>
+        <item>list data 0</item>
+        <item>list data 11</item>
+        <item>list data 12</item>
+        <item>list data 13</item>
+        <item>list data 14</item>
+        <item>list data 15</item>
+        <item>list data 16</item>
+        <item>list data 17</item>
+        <item>list data 18</item>
+        <item>list data 19</item>
+    </string-array>
+</resources>
