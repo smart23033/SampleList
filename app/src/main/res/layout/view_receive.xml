@@ -14,9 +14,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Medium Text"
+        android:text="5555555555555555555555555555555555555555555555555555bb"
         android:id="@+id/text_message"
         android:layout_alignParentTop="true"
         android:layout_toRightOf="@+id/image_photo"
-        android:layout_toEndOf="@+id/image_photo" />
+        android:layout_toEndOf="@+id/image_photo"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="5dp"
+        android:maxWidth="250dp"
+        android:background="@drawable/receive" />
 </RelativeLayout>

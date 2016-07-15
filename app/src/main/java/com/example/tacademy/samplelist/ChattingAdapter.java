@@ -23,6 +23,7 @@ public class ChattingAdapter extends BaseAdapter {
     List<ChattingData> items = new ArrayList<>();
 
     private static final int VIEW_TYPE_COUNT = 3;
+
     private static final int VIEW_INDEX_SEND = 0;
     private static final int VIEW_INDEX_RECEIVE = 1;
     private static final int VIEW_INDEX_DATE = 2;

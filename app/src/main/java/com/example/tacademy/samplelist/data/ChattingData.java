@@ -5,3 +5,4 @@ package com.example.tacademy.samplelist.data;
  */
 public interface ChattingData {
 }
+

@@ -18,7 +18,10 @@
         <activity android:name=".SampleListActivity" />
         <activity android:name=".ChoiceListActivity" />
         <activity android:name=".CustomListActivity" />
-        <activity android:name=".MultiListActivity"></activity>
+        <activity android:name=".MultiListActivity" />
+        <activity android:name=".ActorInfoActivity" />
+        <activity android:name=".ExpandableListActivity" />
+        <activity android:name=".SpinnerActivity"></activity>
     </application>
 
 </manifest>

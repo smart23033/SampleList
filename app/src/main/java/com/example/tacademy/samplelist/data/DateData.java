@@ -14,3 +14,4 @@ public class DateData implements ChattingData {
         this.message = message;
     }
 }
+
